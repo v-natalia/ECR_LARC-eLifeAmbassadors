@@ -5,4 +5,5 @@ A list of funding schemes and opportunities for postdoctoral fellowships, Create
 
 We encourage the Latam scientific community to help to add new funding opportunities to the list by using the submit funding form that you can find on the website.
 
-This site was developped by <a href="https://github.com/v-natalia"> @v-natalia</a>. The repo is open-source. 
+This site was developped by <a href="https://github.com/v-natalia"> @v-natalia</a>. The repo is open-source.
+
